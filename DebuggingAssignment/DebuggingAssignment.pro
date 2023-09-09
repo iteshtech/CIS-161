@@ -8,6 +8,8 @@ CONFIG += c++17 cmdline
 
 SOURCES += \
         main.cpp
+        debugging_assignment.cpp
+
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
